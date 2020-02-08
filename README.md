@@ -1,4 +1,4 @@
-## ( ͡^ ͜ʖ ͡^) source
+## ( ͡^ ͜ʖ ͡^) 
 
 Created with Python + Pelican and Makefile
 
